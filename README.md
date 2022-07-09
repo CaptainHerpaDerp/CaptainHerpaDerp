@@ -2,7 +2,7 @@
 <h2>Welcome to my profile!</h2>
 
 <br>
-<h3> My name is Ruben Smith, Game Developer 💻<h3>
+<h3> My name is Ruben Smith, Game Developer.<h3>
 
 <br>
 <h3>About Me:</h3>
