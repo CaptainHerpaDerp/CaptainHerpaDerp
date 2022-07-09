@@ -1,6 +1,6 @@
 ### Hello! My name is Ruben!
 
--🎓 I'm currently studying at Saxion University of Applied Sciences
+- 🎓 I'm currently studying at Saxion University of Applied Sciences
 - 🌱 I’m currently learning C# scripting in Unity
 
 
