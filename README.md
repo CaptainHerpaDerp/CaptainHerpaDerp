@@ -1,14 +1,12 @@
-### Hello! My name is Ruben!
+public class CaptainHerpaDerp
+{
 
-- 🎓 I'm currently studying at Saxion University of Applied Sciences
-- 🌱 I’m currently learning C# scripting in Unity
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+	string name = "Ruben Smith";
+	
+	string pronouns = "He | Him";
+	
+	string[] languages = {"Python", "Java", "C#", "HTML", "CSS"};
+	 
+	string studyingAt = "Saxion University of Applied Sciences";
+	
+}
