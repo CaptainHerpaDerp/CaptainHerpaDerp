@@ -1,5 +1,4 @@
-public class CaptainHerpaDerp
-{
+
 
 	string name = "Ruben Smith";
 	
@@ -9,7 +8,7 @@ public class CaptainHerpaDerp
 	 
 	string studyingAt = "Saxion University of Applied Sciences";
 	
-}
+
 
 const anmol = {
     pronouns: "He" | "Him",
