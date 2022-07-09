@@ -1,15 +1,4 @@
 
-
-	string name = "Ruben Smith";
-	
-	string pronouns = "He | Him";
-	
-	string[] languages = {"Python", "Java", "C#", "HTML", "CSS"};
-	 
-	string studyingAt = "Saxion University of Applied Sciences";
-	
-
-
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
