@@ -5,6 +5,10 @@
 <h3> My name is Ruben Smith, Game Developer.<h3>
 
 <br>
+
+##  Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 <h3>About Me:</h3>
 <ul> 
 <li>
