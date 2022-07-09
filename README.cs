@@ -1,7 +1,7 @@
-  public class Ruben
+  ### public class Ruben
   {
   
-    string name = "Ruben Smith";
+  ##  string name = "Ruben Smith";
 
     string pronouns = "He | Him";
 
@@ -9,4 +9,4 @@
 
     string studyingAt = "Saxion University of Applied Sciences";
     
-    }
+}
