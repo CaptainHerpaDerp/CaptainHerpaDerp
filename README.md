@@ -8,13 +8,10 @@
 [![MailTo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenalexandersmith@gmail.com)
 
 
-
-
-
-## <img src="https://thumbs.gfycat.com/KaleidoscopicCompleteBlackfootedferret-max-1mb.gif" width="75"> About Me:   
+## 🧑 About Me:   
 
  ```csharp
-  public class About_Me
+  public class Description
   {
   
     string name = "Ruben Smith";
