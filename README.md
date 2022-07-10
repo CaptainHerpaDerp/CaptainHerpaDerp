@@ -1,11 +1,9 @@
 
-<h2>Hello! My name is Ruben Smith <img src="https://thumbs.gfycat.com/ImaginativeIndolentIrishsetter-max-1mb.gif" width="50"></h2>
+<h2>Welcome to my profile!   <img src="https://thumbs.gfycat.com/ImaginativeIndolentIrishsetter-max-1mb.gif" width="50"></h2>
 
+<br>
 
-
-[![Linkedin: ruben](https://img.shields.io/badge/-Ruben-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/) ](https://www.linkedin.com/in/ruben-smith-068752209/)
-[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://haventmadeityet.com/)
-[![MailTo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenalexandersmith@gmail.com)
+<h3>My name is Ruben Smith, I'm a dedicated Game Developer.<h3>
 
 <br>
 
@@ -61,3 +59,9 @@
 
 
 ```
+<br>
+<h2>Contact Me:</h2>
+
+[![Linkedin: ruben](https://img.shields.io/badge/-Ruben-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/) ](https://www.linkedin.com/in/ruben-smith-068752209/)
+[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://haventmadeityet.com/)
+[![MailTo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenalexandersmith@gmail.com)
