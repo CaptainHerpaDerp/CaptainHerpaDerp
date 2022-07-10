@@ -7,6 +7,7 @@
 [![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://haventmadeityet.com/)
 [![MailTo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenalexandersmith@gmail.com)
 
+<br>
 
 ## 🧑 About Me:   
 
