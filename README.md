@@ -1,21 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ruben Smith</h1>
-<h3 align="center">A dedicated game developer from the Netherlands</h3>
+
+<h2>Hello! My name is Ruben Smith <img src="https://thumbs.gfycat.com/ImaginativeIndolentIrishsetter-max-1mb.gif" width="50"></h2>
 
 
-<br>
 
-- 🔭 I’m currently studying at Saxion University
+[![Linkedin: ruben](https://img.shields.io/badge/-Ruben-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/) ](https://www.linkedin.com/in/ruben-smith-068752209/)
+[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://haventmadeityet.com/)
+[![MailTo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubenalexandersmith@gmail.com)
 
-- 🌱 I’m currently learning **Unity Game Scripting**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/israel1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="israel1x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/israel-zurita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-zurita" height="30" width="40" /></a>
-<a href="https://fb.com/israel.1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="israel.1x" height="30" width="40" /></a>
-<a href="https://instagram.com/israel.1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israel.1x" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
+
+## <img src="https://thumbs.gfycat.com/KaleidoscopicCompleteBlackfootedferret-max-1mb.gif" width="75"> About Me:   
+
+ ```csharp
+  public class About_Me
+  {
+  
+    string name = "Ruben Smith";
+
+    string pronouns = "He | Him";
+
+    string nationality = "Dutch | English";
+
+    int age = 20;
+
+  }
+
+
+  public class My_Skills
+  {
+
+    string[] languages = { "Python", "Java", "C#", "HTML", "CSS" };
+
+    string[] skills = { "Ai", "Gameplay", "Physics", "User Interface" };
+    
+  }
+
+  public class Current_Endeavour
+  {
+
+    string studyingAt = "Saxion University of Applied Sciences";
+
+    int currentYear = 1;
+
+    int graduationYear = 2025;
+
+    string workingIn = "C#";
+
+    string workingOn = "Unity Game Programming";
+    
+  }
+
+  public class Life_Goal
+  {
+
+    string careerGoal = "Gameplay Programmer";
+
+    string backupPlan = "Pianist";
+
+  }
+
+
+```
