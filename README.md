@@ -60,7 +60,7 @@
 
 ```
 <br>
-<h2>Contact Me:</h2>
+<h2>Socials:</h2>
 
 [![Linkedin: ruben](https://img.shields.io/badge/-Ruben-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/) ](https://www.linkedin.com/in/ruben-smith-068752209/)
 [![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://haventmadeityet.com/)
