@@ -19,7 +19,7 @@
 
     string nationality = "Dutch | English";
 
-    int age = 22;
+    int age = 24;
 
   }
 
@@ -29,7 +29,7 @@
 
     string[] languages = { "Python", "Java", "C#", "HTML", "CSS" };
 
-    string[] skills = { "Ai", "Gameplay", "Physics", "User Interface" };
+    string[] skills = { "Ai", "Gameplay", "User Interface", "Software Architecture" };
     
   }
 
