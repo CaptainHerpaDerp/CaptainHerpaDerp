@@ -19,7 +19,7 @@
 
     string nationality = "Dutch | English";
 
-    int age = 24;
+    int age = 23;
 
   }
 
