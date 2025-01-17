@@ -27,7 +27,7 @@
   public class My_Skills
   {
 
-    string[] languages = { "Python", "Java", "C#", "HTML", "CSS" };
+    string[] languages = { "Python", "Java", "C#", "HTML", "C++" };
 
     string[] skills = { "Ai", "Gameplay", "User Interface", "Software Architecture" };
     
