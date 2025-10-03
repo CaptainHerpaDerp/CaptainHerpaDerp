@@ -38,7 +38,7 @@
 
     string studyingAt = "Saxion University of Applied Sciences";
 
-    int currentYear = 4;
+    int currentYear = 5;
 
     int graduationYear = 2026;
 
